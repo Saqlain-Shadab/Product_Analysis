@@ -74,4 +74,3 @@ Developed an interactive **Power BI dashboard** featuring:
 - Insights into high-revenue products and regions to optimize sales strategies.  
 - Identification of underperforming areas to improve efficiency.  
 - Data-driven decision-making for improving profitability and shipment logistics.
-- 
