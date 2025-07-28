@@ -1,4 +1,4 @@
-# 📊 Product Sales Analysis
+### 📊 Product Sales Analysis
 
 **Problem Statement**  
 The objective of this project is to analyze sales performance, profitability, and shipment data for **Awesome Chocolates**. The analysis will provide insights into total sales, profit margins, regional sales distribution, and individual sales personnel performance. The findings will help optimize sales strategies and improve business decision-making.
